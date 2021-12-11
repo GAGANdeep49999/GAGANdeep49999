@@ -1,0 +1,82 @@
+.container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+body 
+{
+	margin:  0;
+}
+
+.honesty
+{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.title {
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+header
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+footer
+{
+	align-items: center;
+    background-color: #2828a0;
+    color: rgb(191, 156, 184);
+    padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+.navbar-nav {
+	font-weight: 500;
+    font-size: 16px;
+}
+
+.page-content 
+{
+	width: 100%;
+	margin:  0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    background-color: #2727bf;
+    background-image: linear-gradient(359deg, #2d2dc7 0%, #c76262 100%);
+}
+
+.form-content  
+{
+	background: #7272cc;
+	width: 1000px;
+    color: rgb(51, 10, 10);
+	border-radius: 10px;
+	box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.25);
+	margin: 40px 0;
+	position: relative;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    background-color: #376eb5;
+    background-image: linear-gradient(180deg, #7799c6 0%, #6a3939 100%);
+    
+    
+}
+
+.form-main h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.container .col-lg-6 h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
